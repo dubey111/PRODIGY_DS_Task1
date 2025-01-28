@@ -36,5 +36,5 @@ Thank you for reviewing my submission!
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a>[Gaurav Dwivedi](www.linkedin.com/in/gaurav-dwivedi-856392248)(LinkedIn)</a>
+- <a>[Gaurav Dwivedi](https://www.linkedin.com/in/gaurav-dwivedi-856392248/)(LinkedIn)</a>
 - Email: dwivedigaurav646@gmail.com
